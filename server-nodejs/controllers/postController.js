@@ -1,6 +1,4 @@
 const Utils = require('../utils/const')
-const got = require('got');
-const { pipeline } = require('stream');
 const axios = require('axios');
 
 const postController = {};
